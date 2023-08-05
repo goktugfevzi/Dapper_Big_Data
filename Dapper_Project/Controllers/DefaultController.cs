@@ -15,14 +15,14 @@ namespace Dapper_Project.Controllers
             await using var connection = new SqlConnection(_connectionString);
 
             var brandMax = (await connection.QueryAsync<BrandResult>("SELECT TOP 5 BRAND, COUNT(*) AS count FROM PLATES GROUP BY BRAND ORDER BY count DESC")).ToList();
-            var brandMin = (await connection.QueryAsync<BrandResult>("SELECT TOP 1 BRAND, COUNT(*) AS count FROM PLATES GROUP BY BRAND ORDER BY count ASC")).FirstOrDefault();
+            var brandMin = (await connection.QueryAsync<BrandResult>("SELECT TOP 5 BRAND, COUNT(*) AS count FROM PLATES GROUP BY BRAND ORDER BY count ASC")).ToList();
 
-            var plateMax = (await connection.QueryAsync<PlateResult>("SELECT TOP 1 SUBSTRING(PLATE, 1, 2) AS plate, COUNT(*) AS count FROM PLATES GROUP BY SUBSTRING(PLATE, 1, 2) ORDER BY count DESC")).FirstOrDefault();
-            var plateMin = (await connection.QueryAsync<PlateResult>("SELECT TOP 1 SUBSTRING(PLATE, 1, 2) AS plate, COUNT(*) AS count FROM PLATES GROUP BY SUBSTRING(PLATE, 1, 2) ORDER BY count ASC")).FirstOrDefault();
+            var plateMax = (await connection.QueryAsync<PlateResult>("SELECT TOP 5 SUBSTRING(PLATE, 1, 2) AS plate, COUNT(*) AS count FROM PLATES GROUP BY SUBSTRING(PLATE, 1, 2) ORDER BY count DESC")).ToList();
+            var plateMin = (await connection.QueryAsync<PlateResult>("SELECT TOP 5 SUBSTRING(PLATE, 1, 2) AS plate, COUNT(*) AS count FROM PLATES GROUP BY SUBSTRING(PLATE, 1, 2) ORDER BY count ASC")).ToList();
 
-            var shiftType = (await connection.QueryAsync<ShiftTypeResult>("SELECT TOP 1 SHIFTTYPE, COUNT(*) AS count FROM PLATES GROUP BY SHIFTTYPE ORDER BY count DESC")).FirstOrDefault();
+            var shiftType = (await connection.QueryAsync<ShiftTypeResult>("SELECT TOP 3 SHIFTTYPE, COUNT(*) AS count FROM PLATES GROUP BY SHIFTTYPE ORDER BY count DESC")).ToList();
 
-            var fuelType = (await connection.QueryAsync<FuelResult>("SELECT TOP 1 FUEL, COUNT(*) AS count FROM PLATES GROUP BY FUEL ORDER BY count DESC")).FirstOrDefault();
+            var fuelType = (await connection.QueryAsync<FuelResult>("SELECT TOP 3 FUEL, COUNT(*) AS count FROM PLATES GROUP BY FUEL")).ToList();
 
             var result = new ResultViewModel
             {

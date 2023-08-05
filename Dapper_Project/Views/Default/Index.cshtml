@@ -1,4 +1,5 @@
-﻿@model ResultViewModel
+﻿@using System.Web;
+@model ResultViewModel
 
 @{
     Layout = null;
@@ -26,65 +27,8 @@
 </head>
 <body>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.4/Chart.bundle.min.js'></script>
-    <script>
-        $(document).ready(function () {
-            var ctx = $("#chart-line");
-            var brandMaxData = @Html.Raw(Json.Encode(Model.BrandMax));
 
-            var labels = [];
-            var data = [];
-            var backgroundColors = [];
 
-            // Extract data from the Model.BrandMax list
-            for (var i = 0; i < brandMaxData.length; i++) {
-                labels.push(brandMaxData[i].BRAND);
-                data.push(brandMaxData[i].COUNT);
-                // Generate a random background color for each data point
-                var randomColor = 'rgba(' + Math.floor(Math.random() * 256) + ',' + Math.floor(Math.random() * 256) + ',' + Math.floor(Math.random() * 256) + ',0.5)';
-                backgroundColors.push(randomColor);
-            }
-
-            var myPieChart = new Chart(ctx, {
-                type: 'pie',
-                data: {
-                    labels: labels,
-                    datasets: [{
-                        data: data,
-                        backgroundColor: backgroundColors
-                    }]
-                },
-                options: {
-                    title: {
-                        display: true,
-                        text: 'Weather'
-                    }
-                }
-            });
-        });
-    </script>
-    <div class="page-content page-container" id="page-content">
-        <div class="padding">
-            <div class="row">
-                <div class="container-fluid d-flex justify-content-center">
-                    <div class="col-sm-8 col-md-6">
-                        <div class="card">
-                            <div class="card-header">Pie chart</div>
-                            <div class="card-body" style="height: 420px">
-                                <div class="chartjs-size-monitor" style="position: absolute; left: 0px; top: 0px; right: 0px; bottom: 0px; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;">
-                                    <div class="chartjs-size-monitor-expand" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
-                                        <div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div>
-                                    </div>
-                                    <div class="chartjs-size-monitor-shrink" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
-                                        <div style="position:absolute;width:200%;height:200%;left:0; top:0"></div>
-                                    </div>
-                                </div> <canvas id="chart-line" width="299" height="200" class="chartjs-render-monitor" style="display: block; width: 299px; height: 200px;"></canvas>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="loader-bg">
         <div class="loader-track">
             <div class="loader-fill"></div>
@@ -95,64 +39,61 @@
             <h5 class="mt-4">4 Milyon Plaka Verisi</h5>
             <hr>
             <div class="row">
-                <div class="col-sm-4">
-                    <div class="card text-white bg-primary ">
-                        <h5 class="card-header text-white">En Fazla Olan Plaka</h5>
-                        <div class="card-body">
-                            <h5 class="card-title text-white">@Model.PlateMax.PLATE -- @Model.PlateMax.COUNT</h5>
-                        </div>
-                    </div>
+                @*   <div class="col-sm-4">
+                <div class="card text-white bg-primary ">
+                <h5 class="card-header text-white">En Fazla Olan Plaka</h5>
+                <div class="card-body">
+                <h5 class="card-title text-white">@Model.PlateMax.PLATE -- @Model.PlateMax.COUNT</h5>
+                </div>
+                </div>
                 </div>
                 <div class="col-sm-4">
-                    <div class="card text-white bg-success ">
-                        <h5 class="card-header text-white">En Az Olan Plaka</h5>
-                        <div class="card-body">
-                            <h5 class="card-title text-white">@Model.PlateMin.PLATE -- @Model.PlateMin.COUNT</h5>
+                <div class="card text-white bg-success ">
+                <h5 class="card-header text-white">En Az Olan Plaka</h5>
+                <div class="card-body">
+                <h5 class="card-title text-white">@Model.PlateMin.PLATE -- @Model.PlateMin.COUNT</h5>
 
-                        </div>
-                    </div>
+                </div>
+                </div>
                 </div>
                 <div class="col-sm-4">
-                    <div class="card text-white bg-warning ">
-                        <h5 class="card-header text-white">En Çok Tercih Edilen Vites Türü</h5>
-                        <div class="card-body">
-                            <h5 class="card-title text-white">@Model.ShiftType.SHIFTTYPE -- @Model.ShiftType.COUNT</h5>
+                <div class="card text-white bg-warning ">
+                <h5 class="card-header text-white">En Çok Tercih Edilen Vites Türü</h5>
+                <div class="card-body">
+                <h5 class="card-title text-white">@Model.ShiftType.SHIFTTYPE -- @Model.ShiftType.COUNT</h5>
 
-                        </div>
-                    </div>
                 </div>
+                </div>
+                </div>*@
                 <div class="col-sm-4">
-                    <div class="card text-white bg-secondary ">
+                    <div class="card text-white bg-secondary">
                         <h5 class="card-header text-white">En Fazla Olan Araç Markası</h5>
                         <div class="card-body">
-                            @foreach (var item in @Model.BrandMax)
-                            {
-
-                                <h5 class="card-title text-white">@item.BRAND -- @item.COUNT</h5>
-                            }
-
+                            <h5>En Çok Tercih Edilen Arabalar Markası</h5>
+                            <canvas id="brandMaxChart"></canvas>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-sm-4">
-                    <div class="card text-white bg-danger ">
-                        <h5 class="card-header text-white">En Az Olan Araç Markası</h5>
+                    <div class="card text-white bg-secondary">
+                        <h5 class="card-header text-white">En Fazla Olan Araç Markası</h5>
                         <div class="card-body">
-                            <h5 class="card-title text-white">@Model.BrandMin.BRAND -- @Model.BrandMin.COUNT</h5>
-
+                            <h5>En Az Tercih Edilen Arabalar Markası</h5>
+                            <canvas id="brandMinChart"></canvas>
                         </div>
                     </div>
                 </div>
-
                 <div class="col-sm-4">
-                    <div class="card text-white bg-info ">
-                        <h5 class="card-header text-white">En Fazla Tercih Edilen Yakıt Türü</h5>
+                    <div class="card">
+                        <div class="card-header">
+                            En Fazla Tercih Edilen Yakıt Türü
+                        </div>
                         <div class="card-body">
-                            <h5 class="card-title text-white">@Model.FuelType.FUEL -- @Model.FuelType.COUNT</h5>
-
+                            <canvas id="fuelTypeChart"></canvas>
                         </div>
                     </div>
+
                 </div>
             </div>
 
@@ -222,6 +163,131 @@
         });
     </script>
 
+    <script>
+        var brandMaxData = [];
+        var brandMaxLabels = [];
+        @foreach (var item in @Model.BrandMax)
+        {
+            <text>
+                brandMaxData.push(@item.COUNT);
+            brandMaxLabels.push('@Html.Raw(HttpUtility.HtmlDecode(item.BRAND))');
+            </text>
+        }
+                                                                                      var brandMaxChart = new Chart(document.getElementById("brandMaxChart"), {
+            type: 'pie',
+            data: {
+                labels: brandMaxLabels,
+                datasets: [{
+                    data: brandMaxData,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.8)',
+                        'rgba(54, 162, 235, 0.8)',
+                        'rgba(255, 206, 86, 0.8)',
+                        'rgba(75, 192, 192, 0.8)',
+                        'rgba(153, 102, 255, 0.8)',
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        fontColor: '#ffffff'
+                    }
+                },
+                title: {
+                    display: false
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true
+                }
+            }
+        });
+    </script>
+
+    <script>
+
+        var fuelLabels = ['Dizel', 'LPG', 'Benzin'];
+        var fuelData = [@Model.FuelType[0].COUNT, @Model.FuelType[1].COUNT, @Model.FuelType[2].COUNT];
+        var fuelTypeChart = new Chart(document.getElementById("fuelTypeChart"), {
+            type: 'doughnut',
+            data: {
+                labels: fuelLabels,
+                datasets: [{
+                    data: fuelData,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.8)',
+                        'rgba(54, 162, 235, 0.8)',
+                        'rgba(255, 206, 86, 0.8)'
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        fontColor: 'black'
+                    }
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true
+                }
+            }
+        });
+    </script>
+
+    <script>
+        var brandMinData = [];
+        var brandMinLabels = [];
+        @foreach (var item in @Model.BrandMin)
+        {
+            <text>
+                brandMinData.push(@item.COUNT);
+            brandMinLabels.push('@Html.Raw(HttpUtility.HtmlDecode(item.BRAND))');
+            </text>
+        }
+                                                                                                 var brandMinChart = new Chart(document.getElementById("brandMinChart"), {
+            type: 'pie',
+            data: {
+                labels: brandMinLabels,
+                datasets: [{
+                    data: brandMinData,
+                    backgroundColor: [
+                        'rgba(255, 159, 64, 0.8)',
+                        'rgba(255, 99, 132, 0.8)',
+                        'rgba(54, 162, 235, 0.8)',
+                        'rgba(255, 206, 86, 0.8)',
+                        'rgba(75, 192, 192, 0.8)',
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        fontColor: '#ffffff'
+                    }
+                },
+                title: {
+                    display: false
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true
+                }
+            }
+        });
+    </script>
     <script>
         $(document).ready(function () {
             $(".fixed-button.active").remove();
