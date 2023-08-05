@@ -1,0 +1,2141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Dapper_Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Dapper_Project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\.babelrc",
+      "PackagePath": "staticwebassets\\flat-able-lite\\.babelrc"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\css\\layout-dark.css",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\css\\layout-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\css\\layout-rtl.css",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\css\\layout-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\css\\plugins\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\css\\plugins\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\css\\plugins\\prism-coy.css",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\css\\plugins\\prism-coy.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\feather.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\feather.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\pct.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\pct.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\pct.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\pct.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\pct.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\pct.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\fonts\\pct.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\fonts\\pct.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\auth\\auth-logo-dark.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\auth\\auth-logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\auth\\auth-logo.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\auth\\auth-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\auth\\img-auth-big.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\auth\\img-auth-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\browser\\chrome.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\browser\\chrome.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\browser\\firefox.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\browser\\firefox.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\browser\\ie.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\browser\\ie.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\browser\\opera.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\browser\\opera.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\browser\\safari.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\browser\\safari.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\cd-arrow.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\cd-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\complete.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\complete.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-8.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\gallery-grid\\masonry-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\hover-effect\\triangle.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\hover-effect\\triangle.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\hover-effect\\triangle2.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\hover-effect\\triangle2.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\l1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\l2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\l3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\l4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\l5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\l6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\mixin.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\mixin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\sl1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\sl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\sl2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\sl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\sl3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\sl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\sl4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\sl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\sl5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\sl5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\sl6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\sl6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\smixin.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\smixin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\v1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\v2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\v3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\light-box\\v4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\light-box\\v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\logo-docs.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\logo-docs.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\logo-old.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\logo-old.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\logo-thumb.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\logo-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\maintance\\404.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\maintance\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\maintance\\maintance.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\maintance\\maintance.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\maintance\\sark.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\maintance\\sark.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\maintance\\ship.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\maintance\\ship.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\maintance\\sparcle-1.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\maintance\\sparcle-1.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\maintance\\sparcle-2.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\maintance\\sparcle-2.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\product\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\product\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\profile\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\profile\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\profile\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\profile\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\profile\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\profile\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\profile\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\profile\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\profile\\cover.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\profile\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\slider\\img-slide-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\ticket\\p1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\ticket\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\ticket\\p2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\ticket\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\ticket\\p3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\ticket\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\ticket\\p4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\ticket\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\ticket\\p5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\ticket\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\user\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\user\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\user\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\user\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\user\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\user\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\user\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\user\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\user\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\user\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\user\\cover.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\user\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\user\\img-avatar-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\user\\img-avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\user\\img-avatar-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\user\\img-avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\user\\img-avatar-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\user\\img-avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\AUSTRALIA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\BRAZIL.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\BRAZIL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\GERMANY.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\GERMANY.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\PHONE1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\PHONE1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\PHONE2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\PHONE2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\PHONE3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\PHONE3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\PHONE4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\PHONE4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\UK.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\UK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\USA.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\USA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\blur-bg.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\dashborad-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\dashborad-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\dashborad-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\dashborad-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\dashborad-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\dashborad-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\dashborad-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\dashborad-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\dashborad-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\dashborad-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\emoticon.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\emoticon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\img-round1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\img-round1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\p1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\p2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\p3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\p4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\profile-person1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\profile-person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\slider5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\slider6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\slider6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\slider7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\slider7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\user-blur-bg.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\user-blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\wather2bottom.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\wather2bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\watherbottom.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\watherbottom.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\wathernature.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\wathernature.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\watherstar1.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\watherstar1.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\images\\widget\\watherstar2.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\images\\widget\\watherstar2.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\analytics.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\analytics.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\analytics.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\horizontal-menu.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\horizontal-menu.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\pages\\chart-apex.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\pages\\chart-apex.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\pages\\dashboard-main.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\pages\\dashboard-main.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\pages\\google-maps.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\pages\\google-maps.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\pcoded.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\pcoded.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\plugins\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\plugins\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\plugins\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\plugins\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\plugins\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\plugins\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\plugins\\prism.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\plugins\\prism.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\uikit.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\uikit.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\vendor-all.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\vendor-all.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\js\\vendor-all.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\js\\vendor-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\json\\2500.txt",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\json\\2500.txt"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\json\\cities.json",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\json\\cities.json"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\json\\citynames.json",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\json\\citynames.json"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\assets\\json\\file-upload.php",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\assets\\json\\file-upload.php"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\auth-signin.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\auth-signin.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\auth-signup.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\auth-signup.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_alert.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_alert.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_badges.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_badges.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_breadcrumb-pagination.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_breadcrumb-pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_button.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_button.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_card.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_card.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_carousel.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_collapse.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_extra.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_extra.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_grid.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_grid.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_modal.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_modal.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_progress.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_progress.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_spinner.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_spinner.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_tabs.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_toasts.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_tooltip-popover.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_tooltip-popover.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\bc_typography.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\bc_typography.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\chart-apex.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\chart-apex.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\form_elements.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\form_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\index.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\layout-horizontal.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\layout-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\layout-vertical.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\layout-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\map-google.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\map-google.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\sample-page.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\sample-page.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\dist\\tbl_bootstrap.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\dist\\tbl_bootstrap.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\gulpfile.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\package-lock.json",
+      "PackagePath": "staticwebassets\\flat-able-lite\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\package.json",
+      "PackagePath": "staticwebassets\\flat-able-lite\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\feather.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\feather.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\pct.eot",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\pct.eot"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\pct.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\pct.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\pct.ttf",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\pct.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\fonts\\pct.woff",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\fonts\\pct.woff"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\auth\\auth-logo-dark.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\auth\\auth-logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\auth\\auth-logo.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\auth\\auth-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\auth\\img-auth-big.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\auth\\img-auth-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\browser\\chrome.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\browser\\chrome.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\browser\\firefox.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\browser\\firefox.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\browser\\ie.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\browser\\ie.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\browser\\opera.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\browser\\opera.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\browser\\safari.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\browser\\safari.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\cd-arrow.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\cd-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\complete.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\complete.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-8.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\gallery-grid\\masonry-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\hover-effect\\triangle.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\hover-effect\\triangle.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\hover-effect\\triangle2.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\hover-effect\\triangle2.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\l1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\l2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\l3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\l4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\l5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\l6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\mixin.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\mixin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\sl1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\sl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\sl2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\sl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\sl3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\sl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\sl4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\sl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\sl5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\sl5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\sl6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\sl6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\smixin.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\smixin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\v1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\v2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\v3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\light-box\\v4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\light-box\\v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\logo-docs.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\logo-docs.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\logo-old.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\logo-old.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\logo-thumb.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\logo-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\maintance\\404.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\maintance\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\maintance\\maintance.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\maintance\\maintance.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\maintance\\sark.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\maintance\\sark.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\maintance\\ship.svg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\maintance\\ship.svg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\maintance\\sparcle-1.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\maintance\\sparcle-1.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\maintance\\sparcle-2.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\maintance\\sparcle-2.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\product\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\product\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\profile\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\profile\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\profile\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\profile\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\profile\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\profile\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\profile\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\profile\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\profile\\cover.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\profile\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\slider\\img-slide-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\ticket\\p1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\ticket\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\ticket\\p2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\ticket\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\ticket\\p3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\ticket\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\ticket\\p4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\ticket\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\ticket\\p5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\ticket\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\user\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\user\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\user\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\user\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\user\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\user\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\user\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\user\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\user\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\user\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\user\\cover.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\user\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\user\\img-avatar-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\user\\img-avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\user\\img-avatar-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\user\\img-avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\user\\img-avatar-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\user\\img-avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\AUSTRALIA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\BRAZIL.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\BRAZIL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\GERMANY.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\GERMANY.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\PHONE1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\PHONE1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\PHONE2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\PHONE2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\PHONE3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\PHONE3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\PHONE4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\PHONE4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\UK.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\UK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\USA.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\USA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\blur-bg.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\dashborad-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\dashborad-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\dashborad-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\dashborad-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\dashborad-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\dashborad-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\dashborad-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\dashborad-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\dashborad-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\dashborad-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\emoticon.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\emoticon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\img-round1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\img-round1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\p1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\p2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\p3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\p4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\profile-person1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\profile-person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\slider5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\slider6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\slider6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\slider7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\slider7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\user-blur-bg.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\user-blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\wather2bottom.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\wather2bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\watherbottom.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\watherbottom.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\wathernature.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\wathernature.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\watherstar1.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\watherstar1.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\images\\widget\\watherstar2.png",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\images\\widget\\watherstar2.png"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\analytics.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\analytics.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\analytics.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\horizontal-menu.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\horizontal-menu.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\pages\\chart-apex.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\pages\\chart-apex.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\pages\\dashboard-main.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\pages\\dashboard-main.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\pages\\google-maps.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\pages\\google-maps.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\pcoded.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\pcoded.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\uikit.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\uikit.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\vendor-all.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\vendor-all.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\js\\vendor-all.min.js",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\js\\vendor-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\json\\2500.txt",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\json\\2500.txt"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\json\\cities.json",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\json\\cities.json"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\json\\citynames.json",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\json\\citynames.json"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\json\\file-upload.php",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\json\\file-upload.php"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\layout-dark.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\layout-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\layout-rtl.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\layout-rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\settings\\_custom-variables.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\settings\\_custom-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\settings\\_theme-variables.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\settings\\_theme-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\_general.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\_general.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\_generic.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\_generic.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\bootstrap-overlay\\_badge.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\bootstrap-overlay\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\bootstrap-overlay\\_button.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\bootstrap-overlay\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\bootstrap-overlay\\_card.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\bootstrap-overlay\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\bootstrap-overlay\\_radiobox-checkbox.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\bootstrap-overlay\\_radiobox-checkbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\bootstrap-overlay\\_switches.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\bootstrap-overlay\\_switches.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\dashboard\\_widget.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\dashboard\\_widget.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\font\\_datta-icon.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\font\\_datta-icon.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\font\\_feather.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\font\\_feather.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\font\\_fontawesome.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\font\\_fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\font\\_theme-font.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\font\\_theme-font.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\layouts\\_menu-lite.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\layouts\\_menu-lite.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_authentication.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_authentication.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_fullcalender.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_fullcalender.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_help-desk.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_help-desk.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_icon-lauouts.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_icon-lauouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_image-cropper.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_image-cropper.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_maintaince.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_maintaince.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_pages.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_user.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\pages\\_user.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_bar-rating.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_bar-rating.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_daterange.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_daterange.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_highcharts.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_highcharts.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_lightbox.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_lightbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_maxlength.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_maxlength.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_notification.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_notification.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_peitychart.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_peitychart.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_pnotify.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_pnotify.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_rangeslider.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_rangeslider.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_select2.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_select2.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_sweatalert.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_sweatalert.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_tags-input.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_tags-input.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_wizard.scss",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\assets\\scss\\themes\\plugins\\_wizard.scss"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\auth-signin.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\auth-signin.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\auth-signup.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\auth-signup.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_alert.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_alert.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_badges.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_badges.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_breadcrumb-pagination.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_breadcrumb-pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_button.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_button.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_card.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_card.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_carousel.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_collapse.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_extra.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_extra.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_grid.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_grid.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_modal.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_modal.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_progress.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_progress.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_spinner.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_spinner.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_tabs.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_toasts.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_tooltip-popover.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_tooltip-popover.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\bc_typography.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\bc_typography.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\chart-apex.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\chart-apex.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\form_elements.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\form_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\index.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\layout-horizontal.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\layout-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\layout-vertical.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\layout-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\layouts\\footer-bottom-link.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\layouts\\footer-bottom-link.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\layouts\\footer.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\layouts\\footer.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\layouts\\head-bottom-link.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\layouts\\head-bottom-link.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\layouts\\head.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\layouts\\head.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\layouts\\main.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\layouts\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\layouts\\menu-list.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\layouts\\menu-list.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\map-google.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\map-google.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\sample-page.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\sample-page.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\flat-able-lite\\src\\html\\tbl_bootstrap.html",
+      "PackagePath": "staticwebassets\\flat-able-lite\\src\\html\\tbl_bootstrap.html"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esesl\\source\\repos\\Dapper_Project\\Dapper_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Dapper_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Dapper_Project.props",
+      "PackagePath": "build\\Dapper_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Dapper_Project.props",
+      "PackagePath": "buildMultiTargeting\\Dapper_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Dapper_Project.props",
+      "PackagePath": "buildTransitive\\Dapper_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
