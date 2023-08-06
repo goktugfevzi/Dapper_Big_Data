@@ -230,3 +230,4 @@ C:\Users\esesl\source\repos\Dapper_Project\Dapper_Project\obj\Debug\net6.0\refin
 C:\Users\esesl\source\repos\Dapper_Project\Dapper_Project\obj\Debug\net6.0\Dapper_Project.pdb
 C:\Users\esesl\source\repos\Dapper_Project\Dapper_Project\obj\Debug\net6.0\Dapper_Project.genruntimeconfig.cache
 C:\Users\esesl\source\repos\Dapper_Project\Dapper_Project\obj\Debug\net6.0\ref\Dapper_Project.dll
+C:\Users\esesl\source\repos\Dapper_Project\Dapper_Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll

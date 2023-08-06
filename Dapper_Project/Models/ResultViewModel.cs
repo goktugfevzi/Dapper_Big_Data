@@ -10,6 +10,7 @@ namespace Dapper_Project.Models
         public List<PlateResult>? PlateMin { get; set; }
         public List<ShiftTypeResult>? ShiftType { get; set; }
         public List<FuelResult>? FuelType { get; set; }
+        public List<CaseTypeResult>? CaseType { get; set; }
 
     }
 }

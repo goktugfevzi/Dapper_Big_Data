@@ -38,35 +38,29 @@
         <div class="col-xl-12">
             <h5 class="mt-4">4 Milyon Plaka Verisi</h5>
             <hr>
+
             <div class="row">
-                @*   <div class="col-sm-4">
-                <div class="card text-white bg-primary ">
-                <h5 class="card-header text-white">En Fazla Olan Plaka</h5>
-                <div class="card-body">
-                <h5 class="card-title text-white">@Model.PlateMax.PLATE -- @Model.PlateMax.COUNT</h5>
+                <!-- First Row - Two cards in a 2x2 arrangement -->
+                <div class="col-md-6">
+                    <div class="card text-white bg-primary ">
+                        <h5 class="card-header text-white">En Fazla Olan Plakalar</h5>
+                        <div class="card-body">
+                            <h5>En Çok Kullanılan Plakalar</h5>
+                            <canvas id="plateMaxChart"></canvas>
+                        </div>
+                    </div>
                 </div>
+                <div class="col-md-6">
+                    <div class="card text-white bg-info mb-3">
+                        <h5 class="card-header text-white">En Az Olan Plaka</h5>
+                        <div class="card-body">
+                            <h5>Bu Şehir Girdap Gülüm</h5>
+                            <canvas id="plateMinChart"></canvas>
+                        </div>
+                    </div>
                 </div>
-                </div>
-                <div class="col-sm-4">
-                <div class="card text-white bg-success ">
-                <h5 class="card-header text-white">En Az Olan Plaka</h5>
-                <div class="card-body">
-                <h5 class="card-title text-white">@Model.PlateMin.PLATE -- @Model.PlateMin.COUNT</h5>
-
-                </div>
-                </div>
-                </div>
-                <div class="col-sm-4">
-                <div class="card text-white bg-warning ">
-                <h5 class="card-header text-white">En Çok Tercih Edilen Vites Türü</h5>
-                <div class="card-body">
-                <h5 class="card-title text-white">@Model.ShiftType.SHIFTTYPE -- @Model.ShiftType.COUNT</h5>
-
-                </div>
-                </div>
-                </div>*@
-                <div class="col-sm-4">
-                    <div class="card text-white bg-secondary">
+                <div class="col-md-6">
+                    <div class="card text-white bg-success mb-3">
                         <h5 class="card-header text-white">En Fazla Olan Araç Markası</h5>
                         <div class="card-body">
                             <h5>En Çok Tercih Edilen Arabalar Markası</h5>
@@ -74,17 +68,29 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="col-sm-4">
-                    <div class="card text-white bg-secondary">
-                        <h5 class="card-header text-white">En Fazla Olan Araç Markası</h5>
+                <div class="col-md-6">
+                    <div class="card text-white  bg-warning mb-3">
+                        <h5 class="card-header text-white">En Az Olan Araç Markası</h5>
                         <div class="card-body">
                             <h5>En Az Tercih Edilen Arabalar Markası</h5>
                             <canvas id="brandMinChart"></canvas>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4">
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-header">
+                            En Fazla Tercih Edilen Vites Türü
+                        </div>
+                        <div class="card-body">
+                            <canvas id="shiftTypeChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
                     <div class="card">
                         <div class="card-header">
                             En Fazla Tercih Edilen Yakıt Türü
@@ -93,35 +99,44 @@
                             <canvas id="fuelTypeChart"></canvas>
                         </div>
                     </div>
-
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-header">
+                            En Fazla Tercih Edilen Kasa Türü
+                        </div>
+                        <div class="card-body">
+                            <canvas id="caseTypeChart"></canvas>
+                        </div>
+                    </div>
                 </div>
             </div>
+        </div>
 
-            <div class="input-group mb-3">
-                <form method="post" id="searchForm">
+        <div class="input-group input-group-lg">
+            <form method="post" id="searchForm">
+                <div class="input-group-append">
                     <input type="text" name="keyword" class="form-control" placeholder="Ara" aria-label="Recipient's username" aria-describedby="basic-addon2">
-                    <div class="input-group-append">
-                        <button class="btn btn-primary" type="submit">Ara</button>
-                    </div>
-                </form>
-            </div>
+                    <button class="btn btn-primary" type="submit" data-toggle="collapse" data-target="#searchResult">Ara</button>
+                </div>
+            </form>
+        </div>
 
-            <div id="searchResult">
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th>Marka</th>
-                            <th>Plaka</th>
-                            <th>Vites Türü</th>
-                            <th>Yakıt Tipi</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <var searchResultTable=document.getElementById("searchResult").getElementsByTagName("tbody")[0];
-                             searchResultTable.innerHTML="" ;
-                    </tbody>
-                </table>
-            </div>
+        <div id="searchResult" class="collapse">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Marka</th>
+                        <th>Plaka</th>
+                        <th>Vites Türü</th>
+                        <th>Yakıt Tipi</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <var searchResultTable=document.getElementById("searchResult").getElementsByTagName("tbody")[0];
+                         searchResultTable.innerHTML="" ;
+                </tbody>
+            </table>
         </div>
     </div>
 
@@ -173,7 +188,7 @@
             brandMaxLabels.push('@Html.Raw(HttpUtility.HtmlDecode(item.BRAND))');
             </text>
         }
-                                                                                      var brandMaxChart = new Chart(document.getElementById("brandMaxChart"), {
+                                                                                                                                                                                                                                                                                                                                                                      var brandMaxChart = new Chart(document.getElementById("brandMaxChart"), {
             type: 'pie',
             data: {
                 labels: brandMaxLabels,
@@ -208,10 +223,98 @@
             }
         });
     </script>
-
+    <script>
+        var plateMaxData = [];
+        var plateMaxLabels = [];
+        @foreach (var item in @Model.PlateMax)
+        {
+            <text>
+                plateMaxData.push(@item.COUNT);
+            plateMaxLabels.push('@item.PLATE');
+            </text>
+        }
+                                                                                                                                                                        var plateMaxChart = new Chart(document.getElementById("plateMaxChart"), {
+            type: 'pie',
+            data: {
+                labels: plateMaxLabels,
+                datasets: [{
+                    data: plateMaxData,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)'
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        fontColor: '#ffffff'
+                    }
+                },
+                title: {
+                    display: false
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true
+                }
+            }
+        });
+    </script>
+    <script>
+        var plateMinData = [];
+        var plateMinLabels = [];
+        @foreach (var item in @Model.PlateMin)
+        {
+            <text>
+                plateMinData.push(@item.COUNT);
+            plateMinLabels.push('@item.PLATE');
+            </text>
+        }
+                                                                                                                                                                                                               var plateMinChart = new Chart(document.getElementById("plateMinChart"), {
+            type: 'bar',
+            data: {
+                labels: plateMinLabels,
+                datasets: [{
+                    label: "Min Plate Bar Chart",
+                    data: plateMinData,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.8)',
+                        'rgba(54, 162, 235, 0.8)',
+                        'rgba(255, 206, 86, 0.8)',
+                        'rgba(75, 192, 192, 0.8)',
+                        'rgba(153, 102, 255, 0.8)',
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        fontColor: '#ffffff'
+                    }
+                },
+                title: {
+                    display: false
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true
+                }
+            }
+        });
+    </script>
     <script>
 
-        var fuelLabels = ['Dizel', 'LPG', 'Benzin'];
+        var fuelLabels = ["@Model.FuelType[0].FUEL", "@Model.FuelType[1].FUEL", "@Model.FuelType[2].FUEL"];
         var fuelData = [@Model.FuelType[0].COUNT, @Model.FuelType[1].COUNT, @Model.FuelType[2].COUNT];
         var fuelTypeChart = new Chart(document.getElementById("fuelTypeChart"), {
             type: 'doughnut',
@@ -223,6 +326,47 @@
                         'rgba(255, 99, 132, 0.8)',
                         'rgba(54, 162, 235, 0.8)',
                         'rgba(255, 206, 86, 0.8)'
+                    ],
+                    hoverOffset: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        fontColor: 'black'
+                    }
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true
+                }
+            }
+        });
+    </script>
+    <script>
+
+        var caseData = [];
+        var caseLabels = [];
+        @foreach (var item in @Model.CaseType)
+        {
+            <text>
+                caseData.push(@item.COUNT);
+            caseLabels.push('@Html.Raw(HttpUtility.HtmlDecode(item.CASETYPE))');
+            </text>
+        }
+                                                var caseTypeChart = new Chart(document.getElementById("caseTypeChart"), {
+            type: 'doughnut',
+            data: {
+                labels: caseLabels,
+                datasets: [{
+                    data: caseData,
+                    backgroundColor: [
+                        'rgba(255, 159, 64, 0.8)',
+                        'rgba(255, 99, 132, 0.8)',
+                        'rgba(54, 162, 235, 0.8)',
                     ]
                 }]
             },
@@ -242,7 +386,46 @@
             }
         });
     </script>
+    <script>
+        var shiftData = [];
+        var shiftLabels = [];
+        @foreach (var item in @Model.ShiftType)
+        {
+            <text>
+                shiftData.push(@item.COUNT);
+            shiftLabels.push('@Html.Raw(HttpUtility.HtmlDecode(item.SHIFTTYPE))');
+            </text>
+        }
 
+                                                                                                                                                                                                                                var shiftTypeChart = new Chart(document.getElementById("shiftTypeChart"), {
+            type: 'doughnut',
+            data: {
+                labels: shiftLabels,
+                datasets: [{
+                    data: shiftData,
+                    backgroundColor: [
+                        'rgba(255, 159, 64, 0.8)',
+                        'rgba(255, 99, 132, 0.8)',
+                        'rgba(54, 162, 235, 0.8)',
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        fontColor: 'black'
+                    }
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true
+                }
+            }
+        });
+    </script>
     <script>
         var brandMinData = [];
         var brandMinLabels = [];
@@ -253,20 +436,16 @@
             brandMinLabels.push('@Html.Raw(HttpUtility.HtmlDecode(item.BRAND))');
             </text>
         }
-                                                                                                 var brandMinChart = new Chart(document.getElementById("brandMinChart"), {
-            type: 'pie',
+
+                                                                                                    var brandMinChart = new Chart(document.getElementById("brandMinChart"), {
+            type: 'line',
             data: {
                 labels: brandMinLabels,
                 datasets: [{
+                    label: "Minimum Brand Line Chart",
                     data: brandMinData,
-                    backgroundColor: [
-                        'rgba(255, 159, 64, 0.8)',
-                        'rgba(255, 99, 132, 0.8)',
-                        'rgba(54, 162, 235, 0.8)',
-                        'rgba(255, 206, 86, 0.8)',
-                        'rgba(75, 192, 192, 0.8)',
-                    ],
-                    borderWidth: 1
+                    fill: false,
+                    tension: 0.1
                 }]
             },
             options: {
@@ -275,8 +454,8 @@
                 legend: {
                     position: 'bottom',
                     labels: {
-                        fontColor: '#ffffff'
-                    }
+                        fontColor: 'gray'
+                    },
                 },
                 title: {
                     display: false
